@@ -1,4 +1,4 @@
-package test;
+package com.jap.pizzaorderingsystem;
 
 import org.junit.*;
 
