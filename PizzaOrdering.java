@@ -1,4 +1,4 @@
-package pack;
+package com.jap.pizzaorderingsystem;
 
 import java.util.Scanner;
 
